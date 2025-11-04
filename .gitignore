@@ -1,0 +1,25 @@
+# Configuración del editor
+.vscode/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.old
+*.swp
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+
+# Carpetas de resultados de pruebas automáticas (si se usan)
+reports/
+results/
+output/
